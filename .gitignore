@@ -11,5 +11,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # large datasets
-*.csv
+Fake.csv
+True.csv
 *.zip

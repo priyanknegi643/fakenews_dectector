@@ -1,0 +1,15 @@
+# virtual environment
+fakenews/
+env/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# large datasets
+Fake
+*.zip
