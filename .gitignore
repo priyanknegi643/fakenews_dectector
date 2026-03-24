@@ -15,3 +15,5 @@ Fake.csv
 True.csv
 *.zip
 *.save
+model/bert_model.pt
+
